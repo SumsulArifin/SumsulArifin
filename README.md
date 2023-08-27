@@ -1,8 +1,7 @@
 
-![MasterHead](https://elements-video-cover-images-0.imgix.net/files/389dcae0-112a-4f78-acaf-08ade13641d1/inline_image_preview.jpg?auto=compress%2Cformat&fit=min&h=394&w=700&s=e66a4e955608a6a55df9057f00e95d23)
 <h1 align="center">Hi 👋, I'm Sumsul Arifin</h1>
 <h3 align="center">A passionate fullstack developer from Bangladesh</h3>
-img align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/05/90/45/35/360_F_590453560_ugMuPncnGYB6XnJqmC8xiPQx4eg3jmMD.jpg"
+<img align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/05/90/45/35/360_F_590453560_ugMuPncnGYB6XnJqmC8xiPQx4eg3jmMD.jpg">
 
 
 
